@@ -1,1 +1,1 @@
-plce: chennai
+plce: bangalore
