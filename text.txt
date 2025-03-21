@@ -1,1 +1,1 @@
-plce: none
+plce: bangalore
